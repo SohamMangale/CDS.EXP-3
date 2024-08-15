@@ -1,7 +1,7 @@
 //Soham
 //23070123084
 //entc b1
-//experiment 3
+//experiment 3D
 #include<iostream>
 using namespace std;
 int main()
