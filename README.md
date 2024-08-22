@@ -129,7 +129,7 @@ int main()
     return 0;
 }
 ```
-### 3.Comparison operators
+### 4.Comparison operators
 ```
 //Soham
 //23070123084
