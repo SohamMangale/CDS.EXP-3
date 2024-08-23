@@ -107,7 +107,7 @@ int main()
     return 0;
 }
 ```
-### 3.Logical operators
+### 3.Comparison operators
 ```
 //Soham
 //23070123084
@@ -129,7 +129,7 @@ int main()
     return 0;
 }
 ```
-### 4.Comparison operators
+### 4.Logical operators
 ```
 //Soham
 //23070123084
